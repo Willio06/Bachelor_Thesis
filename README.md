@@ -40,8 +40,9 @@ This repository contains supplementary materials for the bachelor thesis titled 
 ## Citation
 If you use any materials from this repository, please cite the thesis as follows:
 ```
-If you use any materials from this repository, please cite the thesis as follows:
+Beunckens, S., & Willio, T. (2024). Optimalisatietechnieken voor Neurale Netwerken. Universiteit Hasselt, Faculteit Wetenschappen.
 ```
+$\latex$ `.bib` file example
 ```
 @article{BachThesisBeunckensWillio,
 author = {Sam Beunckes, Tuur Willip},
