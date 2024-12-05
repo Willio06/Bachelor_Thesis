@@ -49,7 +49,7 @@ author = {Sam Beunckes, Tuur Willip},
 year = {2024},
 pages = {59},
 title = {OPTIMALISATIETECHNIEKEN VOOR NEURALE NETWERKEN},
-addres = {UHasselt}
+addres = {Universiteit Hasselt, Faculteit Wetenschappen}
 }
 ```
 
