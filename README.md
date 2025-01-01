@@ -64,7 +64,7 @@ Beunckens, S., & Willio, T. (2024). Optimalisatietechnieken voor Neurale Netwerk
 LaTeX `.bib` file example
 ```
 @article{BachThesisBeunckensWillio,
-author = {Sam Beunckes, Tuur Willip},
+author = {Sam Beunckes, Tuur Willio},
 year = {2024},
 pages = {59},
 title = {OPTIMALISATIETECHNIEKEN VOOR NEURALE NETWERKEN},
